@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:18:1-50:12
+	package
+		ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:19:5-51
+	android:versionName
+		ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:21:5-30
+		INJECTED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:20:5-28
+		INJECTED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:24:5-71
+	android:name
+		ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:24:22-69
+permission#android
+ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:27:5-53
+	android:name
+		ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:27:17-39
+application
+ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:29:5-49:19
+MERGED from [com.android.support:support-v13:25.3.1] /home/delaroy/.android/build-cache/3232a2b82ba935cc31673472fd6cacfbde5c8389/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/delaroy/.android/build-cache/0578d9299cc6c831b5e6352251fb277ae09ffb86/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/delaroy/.android/build-cache/7f7c027aa2c77717aef210e9b4871907cd241ed7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/delaroy/.android/build-cache/db3f38e5c8064caaa908ec675d6d857e472e3364/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/delaroy/.android/build-cache/5df740c5b8b508363ff90d3b55d35e569947ff2e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/delaroy/.android/build-cache/32cd6cfcc407a6efda4bbba16fe4f54a7df4dac8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/delaroy/.android/build-cache/aa1280f3dd89528ffb38c76a875bae3b561ee0db/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/delaroy/.android/build-cache/f66d5543eb8663fc889dd985d5f17cea01c53e20/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/delaroy/.android/build-cache/faaa9b184153cf7103ad03663d9ef68d564e196e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/delaroy/.android/build-cache/5272056b78b7fb504bbc26998770e70e213c7704/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/delaroy/.android/build-cache/464e367d68778f9be9270b7f1fc5a1bc53a8acbe/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:32:9-41
+	android:allowBackup
+		ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:30:9-35
+	android:icon
+		ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:31:9-45
+	android:theme
+		ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:33:9-44
+activity#com.delaroystudios.basiccontactibles.MainActivity
+ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:34:9-48:20
+	android:label
+		ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:36:13-45
+	android:launchMode
+		ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:37:13-43
+	android:name
+		ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:35:13-77
+meta-data#android.app.searchable
+ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:38:13-40:54
+	android:resource
+		ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:40:17-51
+	android:name
+		ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:39:17-54
+intent-filter#android.intent.action.SEARCH
+ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:41:13-43:29
+action#android.intent.action.SEARCH
+ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:42:17-71
+	android:name
+		ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:42:25-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:46:27-74
+uses-sdk
+INJECTED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.3.1] /home/delaroy/.android/build-cache/3232a2b82ba935cc31673472fd6cacfbde5c8389/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/delaroy/.android/build-cache/0578d9299cc6c831b5e6352251fb277ae09ffb86/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/delaroy/.android/build-cache/7f7c027aa2c77717aef210e9b4871907cd241ed7/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/delaroy/.android/build-cache/db3f38e5c8064caaa908ec675d6d857e472e3364/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/delaroy/.android/build-cache/5df740c5b8b508363ff90d3b55d35e569947ff2e/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/delaroy/.android/build-cache/32cd6cfcc407a6efda4bbba16fe4f54a7df4dac8/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/delaroy/.android/build-cache/aa1280f3dd89528ffb38c76a875bae3b561ee0db/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/delaroy/.android/build-cache/f66d5543eb8663fc889dd985d5f17cea01c53e20/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/delaroy/.android/build-cache/faaa9b184153cf7103ad03663d9ef68d564e196e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/delaroy/.android/build-cache/5272056b78b7fb504bbc26998770e70e213c7704/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/delaroy/.android/build-cache/464e367d68778f9be9270b7f1fc5a1bc53a8acbe/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.1] /home/delaroy/.android/build-cache/3232a2b82ba935cc31673472fd6cacfbde5c8389/output/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/delaroy/AndroidStudioProjects/android-BasicContactables-master/Application/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.1] /home/delaroy/.android/build-cache/3232a2b82ba935cc31673472fd6cacfbde5c8389/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/delaroy/.android/build-cache/0578d9299cc6c831b5e6352251fb277ae09ffb86/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/delaroy/.android/build-cache/7f7c027aa2c77717aef210e9b4871907cd241ed7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/delaroy/.android/build-cache/db3f38e5c8064caaa908ec675d6d857e472e3364/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/delaroy/.android/build-cache/5df740c5b8b508363ff90d3b55d35e569947ff2e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/delaroy/.android/build-cache/32cd6cfcc407a6efda4bbba16fe4f54a7df4dac8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/delaroy/.android/build-cache/aa1280f3dd89528ffb38c76a875bae3b561ee0db/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/delaroy/.android/build-cache/f66d5543eb8663fc889dd985d5f17cea01c53e20/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/delaroy/.android/build-cache/faaa9b184153cf7103ad03663d9ef68d564e196e/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/delaroy/.android/build-cache/5272056b78b7fb504bbc26998770e70e213c7704/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/delaroy/.android/build-cache/464e367d68778f9be9270b7f1fc5a1bc53a8acbe/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.1] /home/delaroy/.android/build-cache/3232a2b82ba935cc31673472fd6cacfbde5c8389/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.1] /home/delaroy/.android/build-cache/3232a2b82ba935cc31673472fd6cacfbde5c8389/output/AndroidManifest.xml:26:9-47
